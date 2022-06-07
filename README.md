@@ -13,6 +13,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
